@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **judychuang24@gmail.com**
 
-- 📄 Know about my experiences [https://judychuang-hsuan.github.io/portfolio/](https://judychuang-hsuan.github.io/portfolio/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
